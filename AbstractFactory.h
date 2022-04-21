@@ -2,8 +2,7 @@
 // Created by sagiv on 2/12/2022.
 //
 
-#ifndef BRIDGESORTER_ABSTRACTFACTORY_CPP
-#define BRIDGESORTER_ABSTRACTFACTORY_CPP
+
 
 #include <iostream>
 
@@ -199,4 +198,4 @@ void runAbstractFactory(){
     ma->getShield();
     delete(ma);
 }
-#endif //BRIDGESORTER_ABSTRACTFACTORY_CPP
+
