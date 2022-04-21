@@ -2,8 +2,7 @@
 // Created by sagiv on 2/10/2022.
 //
 
-#ifndef BRIDGESORTER_ADAPTER_CPP
-#define BRIDGESORTER_ADAPTER_CPP
+
 
 class AdapterTask {
     virtual void doTask() = 0;
@@ -26,4 +25,4 @@ class sorterTask : public AdapterTask {
 
 };
 
-#endif //BRIDGESORTER_ADAPTER_CPP
+
