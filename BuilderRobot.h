@@ -2,8 +2,7 @@
 // Created by sagiv on 2/11/2022.
 //
 
-#ifndef BRIDGESORTER_BUILDERROBOT_H
-#define BRIDGESORTER_BUILDERROBOT_H
+
 
 #include <string>
 #include <iostream>
@@ -98,4 +97,3 @@ void runBuilder() {
 }
 
 
-#endif //BRIDGESORTER_BUILDERROBOT_H
